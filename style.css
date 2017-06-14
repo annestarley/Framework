@@ -1,1 +1,13 @@
+a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
 
+a:link    { color: blue;
+            background-color: white;}
+a:visited { color: red;
+            background-color: white;}
+a:hover   { color: green;
+            background-color: white;}
+a:active  { color: pink;
+            background-color: white;}
