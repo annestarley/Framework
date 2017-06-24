@@ -11,3 +11,9 @@ a:hover   { color: green;
             background-color: transparent;}
 a:active  { color: pink;
             background-color: transparent;}
+
+.clearfix:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
