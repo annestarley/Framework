@@ -4,10 +4,10 @@ a {
 }
 
 a:link    { color: blue;
-            background-color: white;}
+            background-color: transparent;}
 a:visited { color: red;
-            background-color: white;}
+            background-color: transparent;}
 a:hover   { color: green;
-            background-color: white;}
+            background-color: transparent;}
 a:active  { color: pink;
-            background-color: white;}
+            background-color: transparent;}
