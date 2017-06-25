@@ -17,3 +17,13 @@ a:active  { color: pink;
   display: table;
   clear: both;
 }
+
+/*
+If you want to use this border-box within your own projects, and update all the block elements as well, you can use this code:
+
+*,
+*:before,
+*:after {
+   box-sizing: border-box;
+}
+*/
